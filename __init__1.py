@@ -2,12 +2,12 @@
 :authors: danial29rus,CHERNOV,martishenya,KAHOROV
 
 :Functions: 
-    odeshp.oderk3()
+    matrixg.matrix_1()
     
     
     
 """
-from .odeshp import oderk3
+from .matrixg import matrix_1
 __author__ = 'danial29rus'
 __version__ = '1.6'
 

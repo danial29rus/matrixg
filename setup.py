@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 long_description= '''Python module for solve matrix by gauss and Jacoby'''
-requirements=["fraction","numpy","matplotlib","scipy"]
+requirements=["fraction","numpy","matplotlib","scipy","numexpr","mpmath"]
 setup(name='matrixg',
-      version='1.2',
+      version='1.6',
       url='https://github.com/danial29rus/matrixg',
       license='MIT',
       author='danial29rus',
