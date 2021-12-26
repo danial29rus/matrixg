@@ -1,1 +1,3 @@
-from .matrixg import matrix_1
+print("""Функция matrixg решает
+слау по Gauss and jacoby""")
+from .matrixg import *
